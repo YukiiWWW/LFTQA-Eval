@@ -1,0 +1,7477 @@
+[
+    {
+        "example_id": "fetaqa_0",
+        "model": "Yi-1.5-34B",
+        "score": 1.4423089027404785
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Yi-1.5-34B",
+        "score": 1.4421983361244202
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Yi-1.5-34B",
+        "score": 1.433205783367157
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Yi-1.5-34B",
+        "score": 1.423843264579773
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Yi-1.5-34B",
+        "score": 1.4341310262680054
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Yi-1.5-34B",
+        "score": 1.4241812229156494
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Yi-1.5-34B",
+        "score": 1.3987595438957214
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Yi-1.5-34B",
+        "score": 1.4691775441169739
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Yi-1.5-34B",
+        "score": 1.3923887014389038
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Yi-1.5-34B",
+        "score": 1.369806170463562
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Yi-1.5-34B",
+        "score": 1.454294204711914
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Yi-1.5-34B",
+        "score": 1.4887923002243042
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Yi-1.5-34B",
+        "score": 1.4568237662315369
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Yi-1.5-34B",
+        "score": 1.436524510383606
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Yi-1.5-34B",
+        "score": 1.4477155804634094
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Yi-1.5-34B",
+        "score": 1.3630805611610413
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Yi-1.5-34B",
+        "score": 1.3843594789505005
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Yi-1.5-34B",
+        "score": 1.4311809539794922
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Yi-1.5-34B",
+        "score": 1.434881329536438
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Yi-1.5-34B",
+        "score": 1.4380860328674316
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Yi-1.5-34B",
+        "score": 1.420453667640686
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Yi-1.5-34B",
+        "score": 1.3429059386253357
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Yi-1.5-34B",
+        "score": 1.4370717406272888
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Yi-1.5-34B",
+        "score": 1.3835602402687073
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Yi-1.5-34B",
+        "score": 1.4166458249092102
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Yi-1.5-34B",
+        "score": 1.4363170862197876
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Yi-1.5-34B",
+        "score": 1.3552106618881226
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Yi-1.5-34B",
+        "score": 1.4423196911811829
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Yi-1.5-34B",
+        "score": 1.411837100982666
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Yi-1.5-34B",
+        "score": 1.410657823085785
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Yi-1.5-34B",
+        "score": 1.4253403544425964
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Yi-1.5-34B",
+        "score": 1.3864269256591797
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Yi-1.5-34B",
+        "score": 1.4274244904518127
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Yi-1.5-34B",
+        "score": 1.4315903186798096
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Yi-1.5-34B",
+        "score": 1.4195799231529236
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Yi-1.5-34B",
+        "score": 1.3910771608352661
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Yi-1.5-34B",
+        "score": 1.4756996035575867
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Yi-1.5-34B",
+        "score": 1.4393980503082275
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Yi-1.5-34B",
+        "score": 1.407541811466217
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Yi-1.5-34B",
+        "score": 1.4475157260894775
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Yi-1.5-34B",
+        "score": 1.4296802878379822
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Yi-1.5-34B",
+        "score": 1.401197075843811
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Yi-1.5-34B",
+        "score": 1.4302231669425964
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Yi-1.5-34B",
+        "score": 1.4373465776443481
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Yi-1.5-34B",
+        "score": 1.4525322318077087
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Yi-1.5-34B",
+        "score": 1.4552562236785889
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Yi-1.5-34B",
+        "score": 1.4682610630989075
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Yi-1.5-34B",
+        "score": 1.4158895611763
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Qwen1.5-72B",
+        "score": 1.4508493542671204
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Qwen1.5-72B",
+        "score": 1.4214394092559814
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Qwen1.5-72B",
+        "score": 1.4803144335746765
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Qwen1.5-72B",
+        "score": 1.4401941299438477
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Qwen1.5-72B",
+        "score": 1.430694580078125
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Qwen1.5-72B",
+        "score": 1.4673652052879333
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Qwen1.5-72B",
+        "score": 1.4585578441619873
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Qwen1.5-72B",
+        "score": 1.448206603527069
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Qwen1.5-72B",
+        "score": 1.4432190656661987
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Qwen1.5-72B",
+        "score": 1.4246191382408142
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Qwen1.5-72B",
+        "score": 1.4036732912063599
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Qwen1.5-72B",
+        "score": 1.465208351612091
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Qwen1.5-72B",
+        "score": 1.3991405963897705
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Qwen1.5-72B",
+        "score": 1.4615930914878845
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Qwen1.5-72B",
+        "score": 1.422379195690155
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Qwen1.5-72B",
+        "score": 1.393784523010254
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Qwen1.5-72B",
+        "score": 1.4383158087730408
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Qwen1.5-72B",
+        "score": 1.4460152387619019
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Qwen1.5-72B",
+        "score": 1.4345967173576355
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Qwen1.5-72B",
+        "score": 1.4334679245948792
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Qwen1.5-72B",
+        "score": 1.4481304287910461
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Qwen1.5-72B",
+        "score": 1.4413095712661743
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Qwen1.5-72B",
+        "score": 1.3899204730987549
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Qwen1.5-72B",
+        "score": 1.425388216972351
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Qwen1.5-72B",
+        "score": 1.3647626638412476
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Qwen1.5-72B",
+        "score": 1.3915638327598572
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Qwen1.5-72B",
+        "score": 1.3706719875335693
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Qwen1.5-72B",
+        "score": 1.41614830493927
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Qwen1.5-72B",
+        "score": 1.4473384618759155
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Qwen1.5-72B",
+        "score": 1.4314438104629517
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Qwen1.5-72B",
+        "score": 1.4795124530792236
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Qwen1.5-72B",
+        "score": 1.4218108654022217
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Qwen1.5-72B",
+        "score": 1.440304160118103
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Qwen1.5-72B",
+        "score": 1.465676486492157
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Qwen1.5-72B",
+        "score": 1.4087221026420593
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Qwen1.5-72B",
+        "score": 1.422959804534912
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Qwen1.5-72B",
+        "score": 1.4633864760398865
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Qwen1.5-72B",
+        "score": 1.4448015093803406
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Qwen1.5-72B",
+        "score": 1.4363701343536377
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Qwen1.5-72B",
+        "score": 1.4281619787216187
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Qwen1.5-72B",
+        "score": 1.4565866589546204
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Qwen1.5-72B",
+        "score": 1.000000238418579
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Qwen1.5-72B",
+        "score": 1.4550959467887878
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Qwen1.5-72B",
+        "score": 1.450851559638977
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Llama-2-70B",
+        "score": 1.4023029208183289
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Llama-2-70B",
+        "score": 1.3870292901992798
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Llama-2-70B",
+        "score": 1.4115657806396484
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Llama-2-70B",
+        "score": 1.4481970071792603
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Llama-2-70B",
+        "score": 1.3949833512306213
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Llama-2-70B",
+        "score": 1.4824104309082031
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Llama-2-70B",
+        "score": 1.3908746242523193
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Llama-2-70B",
+        "score": 1.4299200177192688
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Llama-2-70B",
+        "score": 1.3952807784080505
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Llama-2-70B",
+        "score": 1.4574986100196838
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Llama-2-70B",
+        "score": 1.4959307312965393
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Llama-2-70B",
+        "score": 1.4778721332550049
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Llama-2-70B",
+        "score": 1.466485321521759
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Llama-2-70B",
+        "score": 1.3990442752838135
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Llama-2-70B",
+        "score": 1.3763975501060486
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Llama-2-70B",
+        "score": 1.4421032071113586
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Llama-2-70B",
+        "score": 1.4192710518836975
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Llama-2-70B",
+        "score": 1.4533113241195679
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Llama-2-70B",
+        "score": 1.3103812336921692
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Llama-2-70B",
+        "score": 1.4337717294692993
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Llama-2-70B",
+        "score": 1.4332374930381775
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Llama-2-70B",
+        "score": 1.3630950450897217
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Llama-2-70B",
+        "score": 1.4098554253578186
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Llama-2-70B",
+        "score": 1.3785778880119324
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Llama-2-70B",
+        "score": 1.4223918914794922
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Llama-2-70B",
+        "score": 1.4076711535453796
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Llama-2-70B",
+        "score": 1.406139850616455
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Llama-2-70B",
+        "score": 1.3834176659584045
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Llama-2-70B",
+        "score": 1.4795124530792236
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Llama-2-70B",
+        "score": 1.415469467639923
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Llama-2-70B",
+        "score": 1.4521883130073547
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Llama-2-70B",
+        "score": 1.4237756729125977
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Llama-2-70B",
+        "score": 1.436950445175171
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Llama-2-70B",
+        "score": 1.4375466704368591
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Llama-2-70B",
+        "score": 1.4287986755371094
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Llama-2-70B",
+        "score": 1.4208442568778992
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Llama-2-70B",
+        "score": 1.3778595924377441
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Llama-2-70B",
+        "score": 1.4330252408981323
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Llama-2-70B",
+        "score": 1.4463934898376465
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Llama-2-70B",
+        "score": 1.4754397869110107
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Llama-2-70B",
+        "score": 1.4600723385810852
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Llama-2-70B",
+        "score": 1.4425639510154724
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Llama-2-70B",
+        "score": 1.4508793354034424
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Llama-2-70B",
+        "score": 1.4620397686958313
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Llama-2-70B",
+        "score": 1.4168261289596558
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Llama-2-70B",
+        "score": 1.4261773228645325
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Llama-2-70B",
+        "score": 1.4417448043823242
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Llama-2-70B",
+        "score": 1.4073799848556519
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Phi-3",
+        "score": 1.4202209115028381
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Phi-3",
+        "score": 1.3985639810562134
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Phi-3",
+        "score": 1.4323520064353943
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Phi-3",
+        "score": 1.4113471508026123
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Phi-3",
+        "score": 1.3892306685447693
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Phi-3",
+        "score": 1.4157649278640747
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Phi-3",
+        "score": 1.3887038230895996
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Phi-3",
+        "score": 1.4430238604545593
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Phi-3",
+        "score": 1.4397952556610107
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Phi-3",
+        "score": 1.3612590432167053
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Phi-3",
+        "score": 1.4921559691429138
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Phi-3",
+        "score": 1.4270350337028503
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Phi-3",
+        "score": 1.4283920526504517
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Phi-3",
+        "score": 1.4528850317001343
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Phi-3",
+        "score": 1.3853726983070374
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Phi-3",
+        "score": 1.376748263835907
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Phi-3",
+        "score": 1.4258337616920471
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Phi-3",
+        "score": 1.3966494798660278
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Phi-3",
+        "score": 1.290235161781311
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Phi-3",
+        "score": 1.4512574672698975
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Phi-3",
+        "score": 1.358597993850708
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Phi-3",
+        "score": 1.3275991678237915
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Phi-3",
+        "score": 1.4374743103981018
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Phi-3",
+        "score": 1.4346951246261597
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Phi-3",
+        "score": 1.3948153257369995
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Phi-3",
+        "score": 1.446905255317688
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Phi-3",
+        "score": 1.4117780327796936
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Phi-3",
+        "score": 1.364743173122406
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Phi-3",
+        "score": 1.373481035232544
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Phi-3",
+        "score": 1.4037620425224304
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Phi-3",
+        "score": 1.4044108986854553
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Phi-3",
+        "score": 1.381648063659668
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Phi-3",
+        "score": 1.2354815006256104
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Phi-3",
+        "score": 1.410283386707306
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Phi-3",
+        "score": 1.4491368532180786
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Phi-3",
+        "score": 1.4016373753547668
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Phi-3",
+        "score": 1.3876163959503174
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Phi-3",
+        "score": 1.299102246761322
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Phi-3",
+        "score": 1.376533567905426
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Phi-3",
+        "score": 1.4150949716567993
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Phi-3",
+        "score": 1.445890486240387
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Phi-3",
+        "score": 1.4496525526046753
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Phi-3",
+        "score": 1.417489767074585
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Phi-3",
+        "score": 1.3409252762794495
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Phi-3",
+        "score": 1.421122431755066
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Phi-3",
+        "score": 1.396392822265625
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Phi-3",
+        "score": 1.3856898546218872
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Phi-3",
+        "score": 1.4281440377235413
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Phi-3",
+        "score": 1.4213430881500244
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Phi-3",
+        "score": 1.3880615830421448
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Phi-3",
+        "score": 1.4429584741592407
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Phi-3",
+        "score": 1.460930585861206
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Phi-3",
+        "score": 1.3828587532043457
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Phi-3",
+        "score": 1.4302231669425964
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Phi-3",
+        "score": 1.4210290908813477
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Phi-3",
+        "score": 1.4485974311828613
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Phi-3",
+        "score": 1.4519155621528625
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Phi-3",
+        "score": 1.4741249084472656
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Phi-3",
+        "score": 1.4211655855178833
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "Llama-3-70B",
+        "score": 1.4290837049484253
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Llama-3-70B",
+        "score": 1.4393661618232727
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Llama-3-70B",
+        "score": 1.4320504069328308
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Llama-3-70B",
+        "score": 1.4176177382469177
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Llama-3-70B",
+        "score": 1.436259150505066
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Llama-3-70B",
+        "score": 1.4065707325935364
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Llama-3-70B",
+        "score": 1.4308743476867676
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Llama-3-70B",
+        "score": 1.4274975061416626
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Llama-3-70B",
+        "score": 1.37991464138031
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Llama-3-70B",
+        "score": 1.394390046596527
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Llama-3-70B",
+        "score": 1.4428631067276
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Llama-3-70B",
+        "score": 1.4476571679115295
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Llama-3-70B",
+        "score": 1.4476085305213928
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Llama-3-70B",
+        "score": 1.4486656785011292
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Llama-3-70B",
+        "score": 1.4228750467300415
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Llama-3-70B",
+        "score": 1.4495826959609985
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Llama-3-70B",
+        "score": 1.4350054860115051
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Llama-3-70B",
+        "score": 1.4049293994903564
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Llama-3-70B",
+        "score": 1.4143509268760681
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Llama-3-70B",
+        "score": 1.4345548748970032
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Llama-3-70B",
+        "score": 1.4489967823028564
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Llama-3-70B",
+        "score": 1.4420689344406128
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Llama-3-70B",
+        "score": 1.4256029725074768
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Llama-3-70B",
+        "score": 1.4306153655052185
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Llama-3-70B",
+        "score": 1.4103548526763916
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Llama-3-70B",
+        "score": 1.3872703909873962
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Llama-3-70B",
+        "score": 1.4135950207710266
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Llama-3-70B",
+        "score": 1.4154910445213318
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Llama-3-70B",
+        "score": 1.4367300271987915
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Llama-3-70B",
+        "score": 1.376592993736267
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Llama-3-70B",
+        "score": 1.4061535000801086
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Llama-3-70B",
+        "score": 1.4320107102394104
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Llama-3-70B",
+        "score": 1.4466722011566162
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Llama-3-70B",
+        "score": 1.4318619966506958
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Llama-3-70B",
+        "score": 1.3851620554924011
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Llama-3-70B",
+        "score": 1.4795124530792236
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Llama-3-70B",
+        "score": 1.402566373348236
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Llama-3-70B",
+        "score": 1.464152753353119
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Llama-3-70B",
+        "score": 1.4517406821250916
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Llama-3-70B",
+        "score": 1.4185557961463928
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Llama-3-70B",
+        "score": 1.4260350465774536
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Llama-3-70B",
+        "score": 1.4317143559455872
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Llama-3-70B",
+        "score": 1.4487852454185486
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Llama-3-70B",
+        "score": 1.4333695769309998
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Llama-3-70B",
+        "score": 1.4477770924568176
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Llama-3-70B",
+        "score": 1.455740749835968
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Llama-3-70B",
+        "score": 1.466364860534668
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Llama-3-70B",
+        "score": 1.466273844242096
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Llama-3-70B",
+        "score": 1.4302231669425964
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Llama-3-70B",
+        "score": 1.4509015083312988
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Llama-3-70B",
+        "score": 1.3998876214027405
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Llama-3-70B",
+        "score": 1.4783602952957153
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Llama-3-70B",
+        "score": 1.4682610630989075
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "DeepSeek-LLM",
+        "score": 1.4520699977874756
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "DeepSeek-LLM",
+        "score": 1.405674695968628
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "DeepSeek-LLM",
+        "score": 1.421295404434204
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "DeepSeek-LLM",
+        "score": 1.4279870390892029
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "DeepSeek-LLM",
+        "score": 1.436266839504242
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "DeepSeek-LLM",
+        "score": 1.4166163802146912
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "DeepSeek-LLM",
+        "score": 1.4092600345611572
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "DeepSeek-LLM",
+        "score": 1.467483103275299
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "DeepSeek-LLM",
+        "score": 1.434830129146576
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "DeepSeek-LLM",
+        "score": 1.3846548199653625
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "DeepSeek-LLM",
+        "score": 1.3997060656547546
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "DeepSeek-LLM",
+        "score": 1.3923887014389038
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "DeepSeek-LLM",
+        "score": 1.3800885081291199
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "DeepSeek-LLM",
+        "score": 1.4163876175880432
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "DeepSeek-LLM",
+        "score": 1.4240356087684631
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "DeepSeek-LLM",
+        "score": 1.4317057728767395
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "DeepSeek-LLM",
+        "score": 1.446112334728241
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "DeepSeek-LLM",
+        "score": 1.436016023159027
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "DeepSeek-LLM",
+        "score": 1.417450189590454
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "DeepSeek-LLM",
+        "score": 1.379012107849121
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "DeepSeek-LLM",
+        "score": 1.4356509447097778
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "DeepSeek-LLM",
+        "score": 1.484097957611084
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "DeepSeek-LLM",
+        "score": 1.42503023147583
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "DeepSeek-LLM",
+        "score": 1.3609604835510254
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "DeepSeek-LLM",
+        "score": 1.4441564679145813
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "DeepSeek-LLM",
+        "score": 1.3975576162338257
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "DeepSeek-LLM",
+        "score": 1.4511409997940063
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "DeepSeek-LLM",
+        "score": 1.4149068593978882
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "DeepSeek-LLM",
+        "score": 1.4406068921089172
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "DeepSeek-LLM",
+        "score": 1.439798355102539
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "DeepSeek-LLM",
+        "score": 1.38546884059906
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "DeepSeek-LLM",
+        "score": 1.375123918056488
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "DeepSeek-LLM",
+        "score": 1.4677015542984009
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "DeepSeek-LLM",
+        "score": 1.4363727569580078
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "DeepSeek-LLM",
+        "score": 1.4691239595413208
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "DeepSeek-LLM",
+        "score": 1.40853750705719
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "DeepSeek-LLM",
+        "score": 1.4240881204605103
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "DeepSeek-LLM",
+        "score": 1.426189124584198
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "DeepSeek-LLM",
+        "score": 1.3909708261489868
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "DeepSeek-LLM",
+        "score": 1.4368906617164612
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "DeepSeek-LLM",
+        "score": 1.4107416868209839
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "DeepSeek-LLM",
+        "score": 1.422959804534912
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "DeepSeek-LLM",
+        "score": 1.4446680545806885
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "DeepSeek-LLM",
+        "score": 1.4523460865020752
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "DeepSeek-LLM",
+        "score": 1.4670623540878296
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "DeepSeek-LLM",
+        "score": 1.4161754250526428
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "DeepSeek-LLM",
+        "score": 1.3966221809387207
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "DeepSeek-LLM",
+        "score": 1.425803005695343
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "GPT-4o",
+        "score": 1.4288790822029114
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "GPT-4o",
+        "score": 1.4265415668487549
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "GPT-4o",
+        "score": 1.4139901399612427
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "GPT-4o",
+        "score": 1.4339116215705872
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "GPT-4o",
+        "score": 1.467483103275299
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "GPT-4o",
+        "score": 1.4335564374923706
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "GPT-4o",
+        "score": 1.4294369220733643
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "GPT-4o",
+        "score": 1.4318848252296448
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "GPT-4o",
+        "score": 1.396584689617157
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "GPT-4o",
+        "score": 1.489622175693512
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "GPT-4o",
+        "score": 1.430984616279602
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "GPT-4o",
+        "score": 1.4426395893096924
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "GPT-4o",
+        "score": 1.4049293994903564
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "GPT-4o",
+        "score": 1.4563005566596985
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "GPT-4o",
+        "score": 1.4849408268928528
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "GPT-4o",
+        "score": 1.46885484457016
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "GPT-4o",
+        "score": 1.4480714797973633
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "GPT-4o",
+        "score": 1.4090514779090881
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "GPT-4o",
+        "score": 1.459107756614685
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "GPT-4o",
+        "score": 1.4288946986198425
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "GPT-4o",
+        "score": 1.4821054935455322
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "GPT-4o",
+        "score": 1.4078516960144043
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "GPT-4o",
+        "score": 1.438591182231903
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "GPT-4o",
+        "score": 1.3918172121047974
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "GPT-4o",
+        "score": 1.4219661355018616
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "GPT-4o",
+        "score": 1.4271909594535828
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "GPT-4o",
+        "score": 1.4318711757659912
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "GPT-4o",
+        "score": 1.4505584836006165
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "GPT-4o",
+        "score": 1.436350703239441
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "GPT-4o",
+        "score": 1.4795124530792236
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "GPT-4o",
+        "score": 1.3946858644485474
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "GPT-4o",
+        "score": 1.4661360383033752
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "GPT-4o",
+        "score": 1.4147534370422363
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "GPT-4o",
+        "score": 1.4254269003868103
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "GPT-4o",
+        "score": 1.4532546401023865
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "GPT-4o",
+        "score": 1.388337790966034
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "GPT-4o",
+        "score": 1.444830596446991
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "GPT-4o",
+        "score": 1.4366281628608704
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "GPT-4o",
+        "score": 1.4302231669425964
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "GPT-4o",
+        "score": 1.4620397686958313
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "GPT-4o",
+        "score": 1.4621724486351013
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "GPT-4o",
+        "score": 1.4770256280899048
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "GPT-4o",
+        "score": 1.500000238418579
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "GPT-4o",
+        "score": 1.393915057182312
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "GPT-4o",
+        "score": 1.4389864802360535
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4159157276153564
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "GPT-3.5-turbo",
+        "score": 1.400276005268097
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4351498484611511
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3944988250732422
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4158692359924316
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "GPT-3.5-turbo",
+        "score": 1.39907968044281
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3881025910377502
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4734933376312256
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3962595462799072
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4039205312728882
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4359877705574036
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3898000717163086
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4505143761634827
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3931569457054138
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "GPT-3.5-turbo",
+        "score": 1.484097957611084
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "GPT-3.5-turbo",
+        "score": 1.447400987148285
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4086259007453918
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4511409997940063
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "GPT-3.5-turbo",
+        "score": 1.425211489200592
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "GPT-3.5-turbo",
+        "score": 1.375123918056488
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4516127109527588
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4387391805648804
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "GPT-3.5-turbo",
+        "score": 1.461524486541748
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4253403544425964
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3982354402542114
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4590355157852173
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4393218159675598
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4218108654022217
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4568312764167786
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "GPT-3.5-turbo",
+        "score": 1.417199432849884
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "GPT-3.5-turbo",
+        "score": 1.450229287147522
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "GPT-3.5-turbo",
+        "score": 1.413448989391327
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4277012348175049
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "GPT-3.5-turbo",
+        "score": 1.3384215831756592
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4573028087615967
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4608708620071411
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4341684579849243
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4302231669425964
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4620397686958313
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4286088943481445
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "GPT-3.5-turbo",
+        "score": 1.427685022354126
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "GPT-3.5-turbo",
+        "score": 1.4228939414024353
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Mistral-7B",
+        "score": 1.4333528876304626
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Mistral-7B",
+        "score": 1.38444584608078
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Mistral-7B",
+        "score": 1.3837411403656006
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Mistral-7B",
+        "score": 1.4353464841842651
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Mistral-7B",
+        "score": 1.4473906755447388
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Mistral-7B",
+        "score": 1.3777080178260803
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Mistral-7B",
+        "score": 1.4533564448356628
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Mistral-7B",
+        "score": 1.4267266988754272
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Mistral-7B",
+        "score": 1.4082747101783752
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Mistral-7B",
+        "score": 1.4647765755653381
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Mistral-7B",
+        "score": 1.3920627236366272
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Mistral-7B",
+        "score": 1.356517255306244
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Mistral-7B",
+        "score": 1.403407633304596
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Mistral-7B",
+        "score": 1.484097957611084
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Mistral-7B",
+        "score": 1.4610032439231873
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Mistral-7B",
+        "score": 1.4559380412101746
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Mistral-7B",
+        "score": 1.4273949265480042
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Mistral-7B",
+        "score": 1.3609604835510254
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Mistral-7B",
+        "score": 1.38589745759964
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Mistral-7B",
+        "score": 1.4646868705749512
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Mistral-7B",
+        "score": 1.4386187195777893
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Mistral-7B",
+        "score": 1.3748371005058289
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Mistral-7B",
+        "score": 1.4056094288825989
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Mistral-7B",
+        "score": 1.3687690496444702
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Mistral-7B",
+        "score": 1.447334349155426
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Mistral-7B",
+        "score": 1.446269452571869
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Mistral-7B",
+        "score": 1.353558599948883
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Mistral-7B",
+        "score": 1.4218108654022217
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Mistral-7B",
+        "score": 1.4369802474975586
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Mistral-7B",
+        "score": 1.3639801740646362
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Mistral-7B",
+        "score": 1.3898483514785767
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Mistral-7B",
+        "score": 1.418950617313385
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Mistral-7B",
+        "score": 1.4382917284965515
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Mistral-7B",
+        "score": 1.3859471082687378
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Mistral-7B",
+        "score": 1.3517022132873535
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Mistral-7B",
+        "score": 1.4117178320884705
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Mistral-7B",
+        "score": 1.4633864760398865
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Mistral-7B",
+        "score": 1.336466908454895
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Mistral-7B",
+        "score": 1.4375791549682617
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Mistral-7B",
+        "score": 1.4312628507614136
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Mistral-7B",
+        "score": 1.464661419391632
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Mistral-7B",
+        "score": 1.4305998086929321
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Mistral-7B",
+        "score": 1.000000238418579
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Mistral-7B",
+        "score": 1.44278484582901
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Mistral-7B",
+        "score": 1.448993742465973
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_0",
+        "model": "Gemma-7B",
+        "score": 1.4249274730682373
+    },
+    {
+        "example_id": "fetaqa_1",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_2",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_3",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_4",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_5",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_6",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_7",
+        "model": "Gemma-7B",
+        "score": 1.4227904677391052
+    },
+    {
+        "example_id": "fetaqa_8",
+        "model": "Gemma-7B",
+        "score": 1.41598379611969
+    },
+    {
+        "example_id": "fetaqa_9",
+        "model": "Gemma-7B",
+        "score": 1.4217036366462708
+    },
+    {
+        "example_id": "fetaqa_10",
+        "model": "Gemma-7B",
+        "score": 1.4265655279159546
+    },
+    {
+        "example_id": "fetaqa_11",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_12",
+        "model": "Gemma-7B",
+        "score": 1.450310468673706
+    },
+    {
+        "example_id": "fetaqa_13",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_14",
+        "model": "Gemma-7B",
+        "score": 1.3879139423370361
+    },
+    {
+        "example_id": "fetaqa_15",
+        "model": "Gemma-7B",
+        "score": 1.3776633739471436
+    },
+    {
+        "example_id": "fetaqa_16",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_17",
+        "model": "Gemma-7B",
+        "score": 1.4036779999732971
+    },
+    {
+        "example_id": "fetaqa_18",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_19",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_20",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_21",
+        "model": "Gemma-7B",
+        "score": 1.3666020631790161
+    },
+    {
+        "example_id": "fetaqa_22",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_23",
+        "model": "Gemma-7B",
+        "score": 1.4465367794036865
+    },
+    {
+        "example_id": "fetaqa_24",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_25",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_26",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_27",
+        "model": "Gemma-7B",
+        "score": 1.400814414024353
+    },
+    {
+        "example_id": "fetaqa_28",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_29",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_30",
+        "model": "Gemma-7B",
+        "score": 1.414609134197235
+    },
+    {
+        "example_id": "fetaqa_31",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_32",
+        "model": "Gemma-7B",
+        "score": 1.3507344722747803
+    },
+    {
+        "example_id": "fetaqa_33",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_34",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_35",
+        "model": "Gemma-7B",
+        "score": 1.423015296459198
+    },
+    {
+        "example_id": "fetaqa_36",
+        "model": "Gemma-7B",
+        "score": 1.3609663248062134
+    },
+    {
+        "example_id": "fetaqa_37",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_38",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_39",
+        "model": "Gemma-7B",
+        "score": 1.3857264518737793
+    },
+    {
+        "example_id": "fetaqa_40",
+        "model": "Gemma-7B",
+        "score": 1.4081624746322632
+    },
+    {
+        "example_id": "fetaqa_41",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_42",
+        "model": "Gemma-7B",
+        "score": 1.4317320585250854
+    },
+    {
+        "example_id": "fetaqa_43",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_44",
+        "model": "Gemma-7B",
+        "score": 1.4549184441566467
+    },
+    {
+        "example_id": "fetaqa_45",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_46",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_47",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_48",
+        "model": "Gemma-7B",
+        "score": 1.4449990391731262
+    },
+    {
+        "example_id": "fetaqa_49",
+        "model": "Gemma-7B",
+        "score": 1.3589605689048767
+    },
+    {
+        "example_id": "fetaqa_50",
+        "model": "Gemma-7B",
+        "score": 1.4465675354003906
+    },
+    {
+        "example_id": "fetaqa_51",
+        "model": "Gemma-7B",
+        "score": 1.4002466201782227
+    },
+    {
+        "example_id": "fetaqa_52",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_53",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_54",
+        "model": "Gemma-7B",
+        "score": 1.4174606204032898
+    },
+    {
+        "example_id": "fetaqa_55",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_56",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_57",
+        "model": "Gemma-7B",
+        "score": 1.3841335773468018
+    },
+    {
+        "example_id": "fetaqa_58",
+        "model": "Gemma-7B",
+        "score": 1.412132978439331
+    },
+    {
+        "example_id": "fetaqa_59",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_60",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_61",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_62",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_63",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_64",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_65",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_66",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_67",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_68",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_69",
+        "model": "Gemma-7B",
+        "score": 1.3834596872329712
+    },
+    {
+        "example_id": "fetaqa_70",
+        "model": "Gemma-7B",
+        "score": 1.4511409997940063
+    },
+    {
+        "example_id": "fetaqa_71",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_72",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_73",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_74",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_75",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_76",
+        "model": "Gemma-7B",
+        "score": 1.3557401895523071
+    },
+    {
+        "example_id": "fetaqa_77",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_78",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_79",
+        "model": "Gemma-7B",
+        "score": 1.4413713812828064
+    },
+    {
+        "example_id": "fetaqa_80",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_81",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_82",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_83",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_84",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_85",
+        "model": "Gemma-7B",
+        "score": 1.4482389688491821
+    },
+    {
+        "example_id": "fetaqa_86",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_87",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_88",
+        "model": "Gemma-7B",
+        "score": 1.4351962208747864
+    },
+    {
+        "example_id": "fetaqa_89",
+        "model": "Gemma-7B",
+        "score": 1.3911729454994202
+    },
+    {
+        "example_id": "fetaqa_90",
+        "model": "Gemma-7B",
+        "score": 1.4352973103523254
+    },
+    {
+        "example_id": "fetaqa_91",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_92",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_93",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_94",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_95",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_96",
+        "model": "Gemma-7B",
+        "score": 1.427204430103302
+    },
+    {
+        "example_id": "fetaqa_97",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_98",
+        "model": "Gemma-7B",
+        "score": 1.4795124530792236
+    },
+    {
+        "example_id": "fetaqa_99",
+        "model": "Gemma-7B",
+        "score": 1.4134196043014526
+    },
+    {
+        "example_id": "fetaqa_100",
+        "model": "Gemma-7B",
+        "score": 1.4263418912887573
+    },
+    {
+        "example_id": "fetaqa_101",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_102",
+        "model": "Gemma-7B",
+        "score": 1.4218108654022217
+    },
+    {
+        "example_id": "fetaqa_103",
+        "model": "Gemma-7B",
+        "score": 1.4651635885238647
+    },
+    {
+        "example_id": "fetaqa_104",
+        "model": "Gemma-7B",
+        "score": 1.4171116948127747
+    },
+    {
+        "example_id": "fetaqa_105",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_106",
+        "model": "Gemma-7B",
+        "score": 1.4251643419265747
+    },
+    {
+        "example_id": "fetaqa_107",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_108",
+        "model": "Gemma-7B",
+        "score": 1.4547784924507141
+    },
+    {
+        "example_id": "fetaqa_109",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_110",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_111",
+        "model": "Gemma-7B",
+        "score": 1.4133490324020386
+    },
+    {
+        "example_id": "fetaqa_112",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_113",
+        "model": "Gemma-7B",
+        "score": 1.445363461971283
+    },
+    {
+        "example_id": "fetaqa_114",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_115",
+        "model": "Gemma-7B",
+        "score": 1.3791468739509583
+    },
+    {
+        "example_id": "fetaqa_116",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_117",
+        "model": "Gemma-7B",
+        "score": 1.4177942276000977
+    },
+    {
+        "example_id": "fetaqa_118",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_119",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_120",
+        "model": "Gemma-7B",
+        "score": 1.447515070438385
+    },
+    {
+        "example_id": "fetaqa_121",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_122",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_123",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_124",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_125",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_126",
+        "model": "Gemma-7B",
+        "score": 1.4679410457611084
+    },
+    {
+        "example_id": "fetaqa_127",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_128",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_129",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_130",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_131",
+        "model": "Gemma-7B",
+        "score": 1.431460201740265
+    },
+    {
+        "example_id": "fetaqa_132",
+        "model": "Gemma-7B",
+        "score": 1.4561307430267334
+    },
+    {
+        "example_id": "fetaqa_133",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_134",
+        "model": "Gemma-7B",
+        "score": 1.4498010873794556
+    },
+    {
+        "example_id": "fetaqa_135",
+        "model": "Gemma-7B",
+        "score": 1.4485974311828613
+    },
+    {
+        "example_id": "fetaqa_136",
+        "model": "Gemma-7B",
+        "score": 1.4467889666557312
+    },
+    {
+        "example_id": "fetaqa_137",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_138",
+        "model": "Gemma-7B",
+        "score": 1.4017616510391235
+    },
+    {
+        "example_id": "fetaqa_139",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_140",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_141",
+        "model": "Gemma-7B",
+        "score": 1.4309046268463135
+    },
+    {
+        "example_id": "fetaqa_142",
+        "model": "Gemma-7B",
+        "score": 1.456921637058258
+    },
+    {
+        "example_id": "fetaqa_143",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_144",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_145",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_146",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_147",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "fetaqa_148",
+        "model": "Gemma-7B",
+        "score": 1.4405017495155334
+    },
+    {
+        "example_id": "fetaqa_149",
+        "model": "Gemma-7B",
+        "score": 1
+    }
+]

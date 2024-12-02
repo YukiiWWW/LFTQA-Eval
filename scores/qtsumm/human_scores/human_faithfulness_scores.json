@@ -1,0 +1,7467 @@
+[
+    {
+        "example_id": "qtsumm_0",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Yi-1.5-34B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Yi-1.5-34B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Yi-1.5-34B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Yi-1.5-34B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Yi-1.5-34B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Yi-1.5-34B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Yi-1.5-34B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Yi-1.5-34B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Yi-1.5-34B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Qwen1.5-72B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Qwen1.5-72B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Qwen1.5-72B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Qwen1.5-72B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Qwen1.5-72B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Qwen1.5-72B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Qwen1.5-72B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Qwen1.5-72B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Qwen1.5-72B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Qwen1.5-72B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Qwen1.5-72B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Qwen1.5-72B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Qwen1.5-72B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Qwen1.5-72B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Qwen1.5-72B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Qwen1.5-72B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Llama-2-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Llama-2-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Llama-2-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Llama-2-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Llama-2-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Llama-2-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Llama-2-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Llama-2-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Llama-2-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Phi-3",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Phi-3",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Phi-3",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Phi-3",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Phi-3",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Phi-3",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Phi-3",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Phi-3",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Phi-3",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Llama-3-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Llama-3-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Llama-3-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Llama-3-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Llama-3-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Llama-3-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Llama-3-70B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Llama-3-70B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Llama-3-70B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Llama-3-70B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Llama-3-70B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Llama-3-70B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Llama-3-70B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Llama-3-70B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Llama-3-70B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "DeepSeek-LLM",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "DeepSeek-LLM",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "DeepSeek-LLM",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "DeepSeek-LLM",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "DeepSeek-LLM",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "DeepSeek-LLM",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "DeepSeek-LLM",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "DeepSeek-LLM",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "DeepSeek-LLM",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "GPT-4o",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "GPT-4o",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "GPT-4o",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "GPT-4o",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "GPT-4o",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "GPT-4o",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "GPT-4o",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "GPT-4o",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "GPT-4o",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "GPT-4o",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "GPT-4o",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "GPT-4o",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "GPT-4o",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "GPT-4o",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "GPT-4o",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "GPT-4o",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "GPT-3.5-turbo",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "GPT-3.5-turbo",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "GPT-3.5-turbo",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "GPT-3.5-turbo",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "GPT-3.5-turbo",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "GPT-3.5-turbo",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "GPT-3.5-turbo",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "GPT-3.5-turbo",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "GPT-3.5-turbo",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "GPT-3.5-turbo",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "GPT-3.5-turbo",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "GPT-3.5-turbo",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "GPT-3.5-turbo",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "GPT-3.5-turbo",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "GPT-3.5-turbo",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Mistral-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Mistral-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Mistral-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Mistral-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Mistral-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Mistral-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Mistral-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Mistral-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Mistral-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_0",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_1",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_2",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_3",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_4",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_5",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_6",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_7",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_8",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_9",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_10",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_11",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_12",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_13",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_14",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_15",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_16",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_17",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_18",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_19",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_20",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_21",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_22",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_23",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_24",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_25",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_26",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_27",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_28",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_29",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_30",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_31",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_32",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_33",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_34",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_35",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_36",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_37",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_38",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_39",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_40",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_41",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_42",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_43",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_44",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_45",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_46",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_47",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_48",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_49",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_50",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_51",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_52",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_53",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_54",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_55",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_56",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_57",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_58",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_59",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_60",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_61",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_62",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_63",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_64",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_65",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_66",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_67",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_68",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_69",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_70",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_71",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_72",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_73",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_74",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_75",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_76",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_77",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_78",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_79",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_80",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_81",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_82",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_83",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_84",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_85",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_86",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_87",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_88",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_89",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_90",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_91",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_92",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_93",
+        "model": "Gemma-7B",
+        "score": 4.5
+    },
+    {
+        "example_id": "qtsumm_94",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_95",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_96",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_97",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_98",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_99",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_100",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_101",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_102",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_103",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_104",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_105",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_106",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_107",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_108",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_109",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_110",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_111",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_112",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_113",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_114",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_115",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_116",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_117",
+        "model": "Gemma-7B",
+        "score": 4
+    },
+    {
+        "example_id": "qtsumm_118",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_119",
+        "model": "Gemma-7B",
+        "score": 1
+    },
+    {
+        "example_id": "qtsumm_120",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_121",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_122",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_123",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_124",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_125",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_126",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_127",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_128",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_129",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_130",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_131",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_132",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_133",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_134",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_135",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_136",
+        "model": "Gemma-7B",
+        "score": 3.5
+    },
+    {
+        "example_id": "qtsumm_137",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_138",
+        "model": "Gemma-7B",
+        "score": 2.5
+    },
+    {
+        "example_id": "qtsumm_139",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_140",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_141",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_142",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_143",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_144",
+        "model": "Gemma-7B",
+        "score": 5
+    },
+    {
+        "example_id": "qtsumm_145",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_146",
+        "model": "Gemma-7B",
+        "score": 1.5
+    },
+    {
+        "example_id": "qtsumm_147",
+        "model": "Gemma-7B",
+        "score": 2
+    },
+    {
+        "example_id": "qtsumm_148",
+        "model": "Gemma-7B",
+        "score": 3
+    },
+    {
+        "example_id": "qtsumm_149",
+        "model": "Gemma-7B",
+        "score": 3
+    }
+]

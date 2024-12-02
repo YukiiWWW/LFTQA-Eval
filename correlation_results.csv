@@ -1,0 +1,13 @@
+,qtsumm-faithfulness,qtsumm-comprehensiveness,fetaqa-faithfulness,fetaqa-comprehensiveness
+geval_gpt-4o_faithfulness,0.633,0.628,0.47,0.47
+bertscore,0.085,0.041,0.072,0.052
+geval_gpt-4o_comprehensiveness,0.662,0.65,0.493,0.5
+meteor,0.204,0.216,0.187,0.191
+autoacu,0.268,0.262,0.188,0.143
+bleu,0.425,0.415,0.341,0.293
+rouge,0.186,0.206,0.124,0.104
+geval_Meta-Llama-3.1-70B-Instruct-Turbo_comprehensiveness,0.543,0.521,0.426,0.424
+geval_Meta-Llama-3.1-70B-Instruct-Turbo_faithfulness,0.545,0.534,0.433,0.435
+geval_gpt-4o-mini_faithfulness,0.466,0.466,0.342,0.397
+tapas,0.022,0.008,0.076,0.064
+geval_gpt-4o-mini_comprehensiveness,0.508,0.486,0.359,0.381
